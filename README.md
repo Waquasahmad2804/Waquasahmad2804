@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning DSA and Laravel
 - 💞️ I’m looking to collaborate on any php project
 - 📫 How to reach me contact at waquashayat215@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Waquasahmad2804/Waquasahmad2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
