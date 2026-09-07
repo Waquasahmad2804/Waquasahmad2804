@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Waquasahmad2804
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning DSA and Laravel
-- 💞️ I’m looking to collaborate on any php project
-- 📫 How to reach me contact at waquashayat215@gmail.com
 
-<!---
-Waquasahmad2804/Waquasahmad2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm a Backend Developer focused on building scalable, secure, and reliable web applications and REST APIs.
+
+* 🔭 Currently working on backend development and API-driven applications
+* 💻 Experienced with PHP, Laravel, MySQL, REST APIs, and backend architecture
+* 🟢 Working with Node.js, Express, Prisma, and modern backend technologies
+* 🗄️ Interested in database design, optimization, authentication, and scalable systems
+* 🔌 Enjoy building and integrating RESTful APIs and third-party services
+* 🤝 Open to collaborating on PHP/Laravel, Node.js, and backend projects
+* 🌱 Continuously learning system design, cloud technologies, and scalable backend architecture
+* 📫 Reach me at (mailto:waquashayat215@gmail.com)
+
+
+🤝 Let's Connect
+
+I'm always interested in working on interesting backend projects, collaborating with developers, and learning new technologies.
+
+
